@@ -2,7 +2,7 @@
 //  LoadData.hpp
 //  6883Project
 //
-//  Created by xuemengheng on 2018/12/10.
+//  Created by Li Ji on 2018/12/10.
 //
 
 #ifndef loadData_h
