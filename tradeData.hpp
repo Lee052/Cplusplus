@@ -2,7 +2,7 @@
 //  tradeData.hpp
 //  6883Project
 //
-//  Created: 12/4/18   (Xiang Zou)
+//  Created: 12/4/18   Li Ji
 //  Update:  12/9/2018
 
 #ifndef tradeData_hpp
