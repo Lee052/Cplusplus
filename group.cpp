@@ -2,7 +2,7 @@
 //  group.cpp
 //  6883Project
 //
-//  Created:  2018/12/6 (黄子璇)
+//  Created:  2018/12/6 
 //  Update:
 
 #include "group.hpp"
