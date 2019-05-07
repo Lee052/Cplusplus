@@ -2,7 +2,7 @@
 //  stock.cpp
 //  6883Project
 //
-//  Created by Xiang Zou on 12/1/18.
+//  Created by Li Ji on 12/1/18.
 //
 
 #include "stock.hpp"
